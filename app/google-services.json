@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646398764408",
+    "project_id": "egyetejegyzet",
+    "storage_bucket": "egyetejegyzet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646398764408:android:e467eae93351c27de9548d",
+        "android_client_info": {
+          "package_name": "szte.beadando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646398764408-kq8ip0qdrj6jgsipc2olpqlgrpkknu4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "szte.beadando",
+            "certificate_hash": "602c886d5e07f07b7ae2a61816a0c136b3a56e9d"
+          }
+        },
+        {
+          "client_id": "646398764408-2qtdfag0l6qlsmiv3h2nul8lhmcrb5ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABajrM5n-mAw9J0oS-GanA5csWcVemy4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646398764408-2qtdfag0l6qlsmiv3h2nul8lhmcrb5ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
